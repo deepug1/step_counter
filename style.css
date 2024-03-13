@@ -1,0 +1,16 @@
+#myCount {
+    display: block;
+    text-align: center;
+    font-size: 20em;
+    /* Add more styles as needed */
+}
+
+#btncontainer {
+    display: block;
+    text-align: center;
+}
+
+.button {
+    font-size: xx-large;
+    background-color: rgb(76, 225, 255);
+}
